@@ -1,0 +1,6 @@
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.exe.config
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.exe
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.pdb
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.csprojResolveAssemblyReference.cache
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.exe
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.pdb

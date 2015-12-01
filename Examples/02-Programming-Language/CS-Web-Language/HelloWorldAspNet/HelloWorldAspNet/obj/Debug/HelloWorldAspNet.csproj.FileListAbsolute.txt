@@ -4,3 +4,9 @@ D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\02-Programming
 D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\02-Programming-Language\CS-Web-Language\HelloWorldAspNet\HelloWorldAspNet\obj\Debug\HelloWorldAspNet.csprojResolveAssemblyReference.cache
 D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\02-Programming-Language\CS-Web-Language\HelloWorldAspNet\HelloWorldAspNet\obj\Debug\HelloWorldAspNet.dll
 D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\02-Programming-Language\CS-Web-Language\HelloWorldAspNet\HelloWorldAspNet\obj\Debug\HelloWorldAspNet.pdb
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-Web-Language\HelloWorldAspNet\HelloWorldAspNet\bin\HelloWorldAspNet.dll.config
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-Web-Language\HelloWorldAspNet\HelloWorldAspNet\bin\HelloWorldAspNet.dll
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-Web-Language\HelloWorldAspNet\HelloWorldAspNet\bin\HelloWorldAspNet.pdb
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-Web-Language\HelloWorldAspNet\HelloWorldAspNet\obj\Debug\HelloWorldAspNet.csprojResolveAssemblyReference.cache
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-Web-Language\HelloWorldAspNet\HelloWorldAspNet\obj\Debug\HelloWorldAspNet.dll
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-Web-Language\HelloWorldAspNet\HelloWorldAspNet\obj\Debug\HelloWorldAspNet.pdb

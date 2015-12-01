@@ -4,3 +4,9 @@ D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\02-Programming
 D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\02-Programming-Language\CS-Language\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
 D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\02-Programming-Language\CS-Language\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\02-Programming-Language\CS-Language\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-Language\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-Language\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-Language\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-Language\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-Language\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-Language\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

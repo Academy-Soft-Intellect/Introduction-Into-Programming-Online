@@ -11,3 +11,16 @@ D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\02-Programming
 D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\02-Programming-Language\CS-UI-Language\HelloWorldWpf\HelloWorldWpf\obj\Debug\HelloWorldWpf.csproj.GenerateResource.Cache
 D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\02-Programming-Language\CS-UI-Language\HelloWorldWpf\HelloWorldWpf\obj\Debug\HelloWorldWpf.exe
 D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\02-Programming-Language\CS-UI-Language\HelloWorldWpf\HelloWorldWpf\obj\Debug\HelloWorldWpf.pdb
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-UI-Language\HelloWorldWpf\HelloWorldWpf\bin\Debug\HelloWorldWpf.exe.config
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-UI-Language\HelloWorldWpf\HelloWorldWpf\obj\Debug\HelloWorldWpf.exe
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-UI-Language\HelloWorldWpf\HelloWorldWpf\obj\Debug\HelloWorldWpf.pdb
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-UI-Language\HelloWorldWpf\HelloWorldWpf\bin\Debug\HelloWorldWpf.exe
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-UI-Language\HelloWorldWpf\HelloWorldWpf\bin\Debug\HelloWorldWpf.pdb
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-UI-Language\HelloWorldWpf\HelloWorldWpf\obj\Debug\HelloWorldWpf.csprojResolveAssemblyReference.cache
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-UI-Language\HelloWorldWpf\HelloWorldWpf\obj\Debug\MainWindow.baml
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-UI-Language\HelloWorldWpf\HelloWorldWpf\obj\Debug\MainWindow.g.cs
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-UI-Language\HelloWorldWpf\HelloWorldWpf\obj\Debug\App.g.cs
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-UI-Language\HelloWorldWpf\HelloWorldWpf\obj\Debug\HelloWorldWpf_MarkupCompile.cache
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-UI-Language\HelloWorldWpf\HelloWorldWpf\obj\Debug\HelloWorldWpf.g.resources
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-UI-Language\HelloWorldWpf\HelloWorldWpf\obj\Debug\HelloWorldWpf.Properties.Resources.resources
+D:\Soft Intellect\Introduction-Into-Programming-Online\Examples\02-Programming-Language\CS-UI-Language\HelloWorldWpf\HelloWorldWpf\obj\Debug\HelloWorldWpf.csproj.GenerateResource.Cache
