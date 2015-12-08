@@ -1,0 +1,5 @@
+D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\XOR\bin\Debug\XOR.exe.config
+D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\XOR\bin\Debug\XOR.exe
+D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\XOR\bin\Debug\XOR.pdb
+D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\XOR\obj\Debug\XOR.exe
+D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\XOR\obj\Debug\XOR.pdb

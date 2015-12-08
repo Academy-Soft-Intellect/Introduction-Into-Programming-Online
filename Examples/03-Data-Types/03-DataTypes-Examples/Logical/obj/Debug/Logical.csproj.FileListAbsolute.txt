@@ -1,0 +1,5 @@
+D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\Logical\bin\Debug\Logical.exe.config
+D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\Logical\bin\Debug\Logical.exe
+D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\Logical\bin\Debug\Logical.pdb
+D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\Logical\obj\Debug\Logical.exe
+D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\Logical\obj\Debug\Logical.pdb

@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Variables
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int testInt = 4;
+
+            short a = -256;
+            ushort b = 3;
+
+            byte positiveByte = 200;
+
+            sbyte negativeByte = -20;
+            Console.WriteLine(testInt);
+
+            int lazar = 5 + testInt;
+            Console.WriteLine(lazar);
+
+            testInt = 30;
+            Console.WriteLine(testInt);
+
+            //ТИП   Име                 стойност
+            double floatingPointNumber = 4.5;
+
+
+
+        }
+    }
+}
