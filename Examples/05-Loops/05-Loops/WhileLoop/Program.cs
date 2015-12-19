@@ -14,9 +14,13 @@ namespace WhileLoop
 
             while (counter <= 10)
             {
-                Console.WriteLine(counter);
+                if (counter % 2 == 0)
+                {
+                    Console.WriteLine(counter);
+                }
                 counter++;
             }
+            Console.WriteLine("Loop ended!");
         }
     }
 }

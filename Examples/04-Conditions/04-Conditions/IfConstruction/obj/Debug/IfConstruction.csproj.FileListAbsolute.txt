@@ -1,0 +1,6 @@
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\IfConstruction\bin\Debug\IfConstruction.exe.config
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\IfConstruction\bin\Debug\IfConstruction.exe
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\IfConstruction\bin\Debug\IfConstruction.pdb
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\IfConstruction\obj\Debug\IfConstruction.csprojResolveAssemblyReference.cache
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\IfConstruction\obj\Debug\IfConstruction.exe
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\IfConstruction\obj\Debug\IfConstruction.pdb

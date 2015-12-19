@@ -51,6 +51,10 @@ namespace SwitchConstruction
                     Console.WriteLine("A,B,C");
                     break;
 
+                case "t":
+                    Console.WriteLine("t");
+                    break;
+
                 case "x":
                 case "y":
                 case "z":

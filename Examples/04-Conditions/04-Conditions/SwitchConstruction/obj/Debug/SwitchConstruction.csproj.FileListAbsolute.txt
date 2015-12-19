@@ -1,0 +1,6 @@
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\SwitchConstruction\bin\Debug\SwitchConstruction.exe.config
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\SwitchConstruction\bin\Debug\SwitchConstruction.exe
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\SwitchConstruction\bin\Debug\SwitchConstruction.pdb
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\SwitchConstruction\obj\Debug\SwitchConstruction.csprojResolveAssemblyReference.cache
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\SwitchConstruction\obj\Debug\SwitchConstruction.exe
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\SwitchConstruction\obj\Debug\SwitchConstruction.pdb

@@ -1,0 +1,5 @@
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\Test\bin\Debug\Test.exe.config
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\Test\bin\Debug\Test.exe
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\Test\bin\Debug\Test.pdb
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\Test\obj\Debug\Test.exe
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\Test\obj\Debug\Test.pdb

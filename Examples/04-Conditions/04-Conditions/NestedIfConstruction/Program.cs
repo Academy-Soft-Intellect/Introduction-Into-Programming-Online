@@ -17,11 +17,11 @@ namespace NestedIfConstruction
             {
                 if (numInt > 10)
                 {
-                    Console.WriteLine("The number is even and larger then 10!");
+                    Console.WriteLine("The number is even and larger than 10!");
                 }
                 else
                 {
-                    Console.WriteLine("The number is even and smaller then 10!");
+                    Console.WriteLine("The number is even and smaller than 10!");
                 }
             }
             else

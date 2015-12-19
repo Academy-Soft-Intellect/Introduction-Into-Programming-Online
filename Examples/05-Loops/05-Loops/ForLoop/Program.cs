@@ -16,16 +16,16 @@ namespace ForLoop
             }
             Console.WriteLine();
 
-            int n = 6;
+            //int n = 6;
 
-            long factorial = 1;
+            //long factorial = 1;
 
-            for (int i = 1; i <= n; i++)
-            {
-                factorial *= i;
-            }
+            //for (int i = 1; i <= n; i++)
+            //{
+            //    factorial *= i;
+            //}
 
-            Console.WriteLine("{0}! = {1}", n, factorial);
+            //Console.WriteLine("{0}! = {1}", n, factorial);
         }
     }
 }

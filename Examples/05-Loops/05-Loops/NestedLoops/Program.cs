@@ -15,7 +15,6 @@ namespace NestedLoops
 
             for (int i = 1; i <= rows; i++)
             {
-
                 for (int j = 1; j <= cols; j++)
                 {
                     Console.Write("{0} X {1}", i, j);
@@ -24,7 +23,6 @@ namespace NestedLoops
                         Console.Write(" | ");
                     }
                 }
-
                 Console.WriteLine();
             }
         }
