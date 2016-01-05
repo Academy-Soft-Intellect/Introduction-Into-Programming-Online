@@ -1,0 +1,5 @@
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\06-Arrays\ForEach\bin\Debug\ForEach.exe.config
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\06-Arrays\ForEach\bin\Debug\ForEach.exe
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\06-Arrays\ForEach\bin\Debug\ForEach.pdb
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\06-Arrays\ForEach\obj\Debug\ForEach.exe
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\06-Arrays\ForEach\obj\Debug\ForEach.pdb
