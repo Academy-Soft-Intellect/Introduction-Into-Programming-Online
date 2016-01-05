@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,11 +11,21 @@ namespace ForLoop
     {
         private static void Main(string[] args)
         {
-            for (int number = 0; number < 5; number++)
+            //for (int i = 2; i < 10; i++)
+            //{
+            //    Console.WriteLine(i);
+            //}
+
+            int counter = 0;
+
+            for (int i = 1; i <= 10; i++)
             {
-                Console.WriteLine(number + " ");
+                for (int j = 1; j <= 5; j++)
+                {
+                    Console.WriteLine("I = {0}, J = {1}, counter = {2}", i, j, counter);
+                    counter++;
+                }
             }
-            Console.WriteLine();
 
             //int n = 6;
 

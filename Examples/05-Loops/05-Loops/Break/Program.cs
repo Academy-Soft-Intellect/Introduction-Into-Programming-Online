@@ -10,23 +10,45 @@ namespace Break
     {
         private static void Main(string[] args)
         {
-            int number = 3;
-            int divider = 5;
-            int curent_number = 1;
+            //int number = 3;
+            //int divider = 5;
+            //int curent_number = 1;
 
-            do
+            //do
+            //{
+            //    int result = number * curent_number;
+            //    curent_number++;
+
+            //    if (result % divider == 0)
+            //    {
+            //        Console.Write("Least common multiple (LCM): {0} and {1} is {2}", number, divider, result);
+            //        Console.WriteLine();
+            //        break;
+            //    }
+
+            //} while (true);
+
+            for (int i = 0; i < 10; i++)
             {
-                int result = number * curent_number;
-                curent_number++;
-
-                if (result % divider == 0)
+                if (i == 5)
                 {
-                    Console.Write("Least common multiple (LCM): {0} and {1} is {2}", number, divider, result);
-                    Console.WriteLine();
                     break;
                 }
+                Console.WriteLine(i);
+            }
 
-            } while (true);
+            int sum = 0;
+
+            while (true)
+            {
+                int i = int.Parse(Console.ReadLine());
+                if (i == 0)
+                {
+                    break;
+                }
+                sum += i;
+            }
+            Console.WriteLine(sum);
         }
     }
 }
