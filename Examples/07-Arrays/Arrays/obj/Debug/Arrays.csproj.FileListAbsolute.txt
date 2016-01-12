@@ -1,0 +1,5 @@
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\07-Arrays\Arrays\bin\Debug\Arrays.exe.config
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\07-Arrays\Arrays\bin\Debug\Arrays.exe
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\07-Arrays\Arrays\bin\Debug\Arrays.pdb
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\07-Arrays\Arrays\obj\Debug\Arrays.exe
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\07-Arrays\Arrays\obj\Debug\Arrays.pdb
