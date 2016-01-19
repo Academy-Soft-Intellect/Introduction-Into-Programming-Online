@@ -10,21 +10,20 @@ namespace ReturnValue
     {
         static void Main(string[] args)
         {
-            float width = 5;
-            float height = 4;
+            int width = 5;
+            int height = 4;
 
-            string area = CalculateRectangleArea(width, height);
+            int area = CalculateRectangleArea(width, height);
 
             Console.WriteLine("Width " + width + "  Height " + height + " = Area " + area);
             Console.WriteLine();
 
         }
 
-        public static string CalculateRectangleArea(float width, float height)
+        public static int CalculateRectangleArea(int width, int height)
         {
-            return " Lazar";
-            //float area = width * height;
-            //return area;
+            int area = width * height;
+            return area;
         }
     }
 }

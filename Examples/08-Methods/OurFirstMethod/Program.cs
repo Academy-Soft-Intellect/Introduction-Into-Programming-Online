@@ -10,27 +10,52 @@ namespace OurFirstMethod
     {
         static void Main(string[] args)
         {
-            string a = "My name";
-
+            string name = "My name";
+            string yourName = "Your name";
+            PrintNames(name, yourName);
+            //PrintName(name);
 
             int b = 5;
-            Program.PrintMyName(new int[5], out b);
-
-
-
-            //Console.WriteLine();
-            //Console.WriteLine("Waiting....");
-            //Console.WriteLine();
-
-            //string secondName = "Your name";
-            //PrintMyName(secondName);
+            int[] a = new int[5];
+            ChangeNumberValue(a, out b);
+            Console.WriteLine(b);
+            //PrintName(yourName);
+            //PrintNameXTimes(yourName, 5);
+            ////Console.WriteLine();
+            ////Console.WriteLine("Waiting....");
+            ////Console.WriteLine();
+            ////string secondName = "Your name";
+            ////PrintMyName(secondName);
         }
-
-        static void PrintMyName(int[] ar, out int b)
+        static void ChangeNumberValue(int[] ar, out int param2)
         {
             ar[2] = 5;
-            b = 10;
+            param2 = 10;
         }
+
+        private static void PrintNameXTimes(string stringParam, int numberParam)
+        {
+            for (int i = 0; i < numberParam; i++)
+            {
+                Console.WriteLine(stringParam);
+            }
+        }
+
+        private static void PrintNames(string param1, string param2)
+        {
+            Console.WriteLine(param1);
+            Console.WriteLine(param2);
+        }
+
+        private static void PrintName(string param1)
+        {
+            Console.WriteLine(param1);
+        }
+
+        
+
+
+
 
 
 

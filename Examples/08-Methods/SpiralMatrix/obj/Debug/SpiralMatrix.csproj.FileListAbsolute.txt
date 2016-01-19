@@ -1,0 +1,6 @@
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\SpiralMatrix\bin\Debug\SpiralMatrix.exe.config
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\SpiralMatrix\obj\Debug\SpiralMatrix.csprojResolveAssemblyReference.cache
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\SpiralMatrix\obj\Debug\SpiralMatrix.exe
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\SpiralMatrix\obj\Debug\SpiralMatrix.pdb

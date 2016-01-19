@@ -16,11 +16,7 @@ namespace GlobalParameter
             IncrementCounter();
             IncrementCounter();
             IncrementCounter();
-
-
             Console.WriteLine(counter);
-
-
         }
 
         private static void IncrementCounter()

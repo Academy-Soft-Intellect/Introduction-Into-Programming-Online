@@ -1,0 +1,6 @@
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\Methods01\bin\Debug\Methods01.exe.config
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\Methods01\bin\Debug\Methods01.exe
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\Methods01\bin\Debug\Methods01.pdb
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\Methods01\obj\Debug\Methods01.csprojResolveAssemblyReference.cache
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\Methods01\obj\Debug\Methods01.exe
+F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\Methods01\obj\Debug\Methods01.pdb

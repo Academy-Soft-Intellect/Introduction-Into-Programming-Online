@@ -10,35 +10,18 @@ namespace Methods01
     {
         static void Main(string[] args)
         {
-            int[] arr = new int[10];
-            for (int i = 0; i < arr.Length; i++)
-            {
-                arr[i] = int.Parse(Console.ReadLine());
-            }
+            Console.Write("Please enter the first number:");
+            int firstNumber = int.Parse(Console.ReadLine());
+            Console.Write("Please enter the second number:");
+            int secondNumber = int.Parse(Console.ReadLine());
 
-            PrintArrayReverse(arr);
-
-            string text = "asdasdasd";
-            PrintStringReverse(text);
+            PrintNumbersSum(firstNumber, secondNumber);
         }
 
-        private static void PrintStringReverse(string text)
+        private static void PrintNumbersSum(int firstNumber, int secondNumber)
         {
-            for (int i = text.Length - 1; i > -1; i--)
-            {
-                Console.Write(text[i]);
-            }
-            Console.WriteLine();
+            Console.Write("{0} + {1} = ", firstNumber, secondNumber);
+            Console.WriteLine(firstNumber + secondNumber);
         }
-
-        private static void PrintArrayReverse(int[] arr)
-        {
-            for (int i = arr.Length - 1; i > -1; i--)
-            {
-                Console.WriteLine(arr[i]);
-            }
-        }
-
-
     }
 }
