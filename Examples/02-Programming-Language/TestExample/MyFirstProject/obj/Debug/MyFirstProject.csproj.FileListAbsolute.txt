@@ -1,6 +1,0 @@
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\02-Programming-Language\TestExample\MyFirstProject\bin\Debug\MyFirstProject.exe.config
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\02-Programming-Language\TestExample\MyFirstProject\obj\Debug\MyFirstProject.csprojResolveAssemblyReference.cache
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\02-Programming-Language\TestExample\MyFirstProject\bin\Debug\MyFirstProject.exe
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\02-Programming-Language\TestExample\MyFirstProject\bin\Debug\MyFirstProject.pdb
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\02-Programming-Language\TestExample\MyFirstProject\obj\Debug\MyFirstProject.exe
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\02-Programming-Language\TestExample\MyFirstProject\obj\Debug\MyFirstProject.pdb

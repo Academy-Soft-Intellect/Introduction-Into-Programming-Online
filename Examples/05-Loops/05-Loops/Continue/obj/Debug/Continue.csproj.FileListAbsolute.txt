@@ -1,6 +1,0 @@
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\05-Loops\05-Loops\Continue\bin\Debug\Continue.exe.config
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\05-Loops\05-Loops\Continue\bin\Debug\Continue.exe
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\05-Loops\05-Loops\Continue\bin\Debug\Continue.pdb
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\05-Loops\05-Loops\Continue\obj\Debug\Continue.csprojResolveAssemblyReference.cache
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\05-Loops\05-Loops\Continue\obj\Debug\Continue.exe
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\05-Loops\05-Loops\Continue\obj\Debug\Continue.pdb

@@ -1,5 +1,0 @@
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\MethodWithoutParams\bin\Debug\MethodWithoutParams.exe.config
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\MethodWithoutParams\bin\Debug\MethodWithoutParams.exe
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\MethodWithoutParams\bin\Debug\MethodWithoutParams.pdb
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\MethodWithoutParams\obj\Debug\MethodWithoutParams.exe
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\MethodWithoutParams\obj\Debug\MethodWithoutParams.pdb

@@ -1,6 +1,0 @@
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\TestPreparation\Task03\bin\Debug\Task03.exe.config
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\TestPreparation\Task03\bin\Debug\Task03.exe
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\TestPreparation\Task03\bin\Debug\Task03.pdb
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\TestPreparation\Task03\obj\Debug\Task03.csprojResolveAssemblyReference.cache
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\TestPreparation\Task03\obj\Debug\Task03.exe
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\TestPreparation\Task03\obj\Debug\Task03.pdb

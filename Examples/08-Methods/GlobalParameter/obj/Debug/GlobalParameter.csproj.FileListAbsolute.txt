@@ -1,5 +1,0 @@
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\GlobalParameter\bin\Debug\GlobalParameter.exe.config
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\GlobalParameter\bin\Debug\GlobalParameter.exe
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\GlobalParameter\bin\Debug\GlobalParameter.pdb
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\GlobalParameter\obj\Debug\GlobalParameter.exe
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\GlobalParameter\obj\Debug\GlobalParameter.pdb

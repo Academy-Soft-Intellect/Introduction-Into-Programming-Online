@@ -1,6 +1,0 @@
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\Variables\bin\Debug\Variables.exe.config
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\Variables\bin\Debug\Variables.exe
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\Variables\bin\Debug\Variables.pdb
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\Variables\obj\Debug\Variables.exe
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\Variables\obj\Debug\Variables.pdb
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache

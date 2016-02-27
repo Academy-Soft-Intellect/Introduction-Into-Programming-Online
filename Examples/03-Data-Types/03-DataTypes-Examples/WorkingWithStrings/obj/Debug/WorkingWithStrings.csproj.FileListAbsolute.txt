@@ -1,6 +1,0 @@
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe.config
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\WorkingWithStrings\bin\Debug\WorkingWithStrings.pdb
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\WorkingWithStrings\obj\Debug\WorkingWithStrings.csprojResolveAssemblyReference.cache
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\WorkingWithStrings\obj\Debug\WorkingWithStrings.exe
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\WorkingWithStrings\obj\Debug\WorkingWithStrings.pdb

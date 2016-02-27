@@ -1,5 +1,0 @@
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\Literals\bin\Debug\Literals.exe.config
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\Literals\bin\Debug\Literals.exe
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\Literals\bin\Debug\Literals.pdb
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\Literals\obj\Debug\Literals.exe
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\Literals\obj\Debug\Literals.pdb

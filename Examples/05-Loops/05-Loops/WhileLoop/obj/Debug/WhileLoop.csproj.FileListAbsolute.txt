@@ -1,6 +1,0 @@
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\05-Loops\05-Loops\WhileLoop\bin\Debug\WhileLoop.exe.config
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\05-Loops\05-Loops\WhileLoop\bin\Debug\WhileLoop.exe
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\05-Loops\05-Loops\WhileLoop\bin\Debug\WhileLoop.pdb
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\05-Loops\05-Loops\WhileLoop\obj\Debug\WhileLoop.csprojResolveAssemblyReference.cache
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\05-Loops\05-Loops\WhileLoop\obj\Debug\WhileLoop.exe
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\05-Loops\05-Loops\WhileLoop\obj\Debug\WhileLoop.pdb

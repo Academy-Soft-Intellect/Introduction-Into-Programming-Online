@@ -1,5 +1,0 @@
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\IfElseConstruction\bin\Debug\IfElseConstruction.exe.config
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\IfElseConstruction\bin\Debug\IfElseConstruction.exe
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\IfElseConstruction\bin\Debug\IfElseConstruction.pdb
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\IfElseConstruction\obj\Debug\IfElseConstruction.exe
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\IfElseConstruction\obj\Debug\IfElseConstruction.pdb

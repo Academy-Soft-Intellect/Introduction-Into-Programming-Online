@@ -1,6 +1,0 @@
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\ArithmeticalOperations\bin\Debug\ArithmeticalOperations.exe.config
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\ArithmeticalOperations\bin\Debug\ArithmeticalOperations.exe
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\ArithmeticalOperations\bin\Debug\ArithmeticalOperations.pdb
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\ArithmeticalOperations\obj\Debug\ArithmeticalOperations.csprojResolveAssemblyReference.cache
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\ArithmeticalOperations\obj\Debug\ArithmeticalOperations.exe
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\ArithmeticalOperations\obj\Debug\ArithmeticalOperations.pdb

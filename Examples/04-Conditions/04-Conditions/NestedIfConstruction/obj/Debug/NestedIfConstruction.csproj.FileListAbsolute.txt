@@ -1,6 +1,0 @@
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\NestedIfConstruction\bin\Debug\NestedIfConstruction.exe.config
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\NestedIfConstruction\bin\Debug\NestedIfConstruction.exe
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\NestedIfConstruction\bin\Debug\NestedIfConstruction.pdb
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\NestedIfConstruction\obj\Debug\NestedIfConstruction.exe
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\NestedIfConstruction\obj\Debug\NestedIfConstruction.pdb
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\04-Conditions\04-Conditions\NestedIfConstruction\obj\Debug\NestedIfConstruction.csprojResolveAssemblyReference.cache

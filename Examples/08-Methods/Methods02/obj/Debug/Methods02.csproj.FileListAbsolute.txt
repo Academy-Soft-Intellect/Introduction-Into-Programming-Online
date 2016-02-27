@@ -1,6 +1,0 @@
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\Methods02\bin\Debug\Methods02.exe.config
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\Methods02\bin\Debug\Methods02.exe
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\Methods02\bin\Debug\Methods02.pdb
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\Methods02\obj\Debug\Methods02.csprojResolveAssemblyReference.cache
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\Methods02\obj\Debug\Methods02.exe
-F:\Soft Intellect\Introduction-Into-Programming-Online\Examples\08-Methods\Methods02\obj\Debug\Methods02.pdb

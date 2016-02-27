@@ -1,6 +1,0 @@
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\ConsoleInput\bin\Debug\ConsoleInput.exe.config
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\ConsoleInput\bin\Debug\ConsoleInput.exe
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\ConsoleInput\bin\Debug\ConsoleInput.pdb
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\ConsoleInput\obj\Debug\ConsoleInput.csprojResolveAssemblyReference.cache
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\ConsoleInput\obj\Debug\ConsoleInput.exe
-D:\Soft Intellect\Programming-Introduction-CSharp-Course\Examples\03-Data-Types\03-DataTypes-Examples\ConsoleInput\obj\Debug\ConsoleInput.pdb
