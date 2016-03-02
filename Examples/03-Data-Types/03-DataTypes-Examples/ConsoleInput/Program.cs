@@ -12,16 +12,25 @@ namespace ConsoleInput
         {
             //Console.WriteLine("Please enter a number:");
 
-            //string x = Console.ReadLine();
+            //int x = int.Parse(Console.ReadLine());
+
+            //string y = Console.ReadLine();
 
             //Console.Write("You entered: ");
-            
+
             //Console.WriteLine(x);
             //Console.WriteLine(" its a magic ");
 
-            double y = double.Parse(Console.ReadLine());
+            //double y = double.Parse(Console.ReadLine());
 
-            Console.WriteLine(y);
+            //Console.WriteLine(y);
+
+
+            string first = Console.ReadLine();
+            string second = Console.ReadLine();
+
+            Console.WriteLine(first + second);
+
         }
     }
 }

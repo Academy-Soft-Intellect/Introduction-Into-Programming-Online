@@ -11,8 +11,8 @@ namespace WorkingWithStrings
         static void Main(string[] args)
         {
 
-            string name = "Ivaylo Babalev";
-            string result = "Hello " + name + "!";
+            string name = "Ivaylo @#$^@$()(*)( Babalev";
+            string result = "Hello " + name;
             Console.WriteLine(result);
 
             Console.WriteLine(result[1]);

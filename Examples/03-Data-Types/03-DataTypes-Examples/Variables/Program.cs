@@ -10,34 +10,51 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-            int testInt = 4;
+            //ТИП   Име   стойност
+            //int testInt = 4;
+            //Console.WriteLine(testInt);
 
-            short a = -256;
-            ushort b = 3;
+            //int secondInt = 6;
 
-            byte positiveByte = 200;
+            //Console.WriteLine(testInt + secondInt);
 
-            sbyte negativeByte = -20;
-            Console.WriteLine(testInt);
+            //short a = -256;
+            //ushort b = 3;
 
-            int lazar = 5 + testInt;
-            Console.WriteLine(lazar);
+            //Console.WriteLine(a);
 
-            testInt = 30;
-            Console.WriteLine(testInt);
+            //bte positiveByte = 200;
 
-            //ТИП   Име                 стойност
-            double floatingPointNumber = 4;
-            Console.WriteLine(floatingPointNumber);
+            //sbyte negativeByte = -20;
+            //Console.WriteLine(testInt);
 
-            float floatingPoint = 5.6f;
+            //int lazar = 5 + testInt;
+            //Console.WriteLine(lazar);
 
-            decimal decimalValue = 6.8m;
+            //testInt = 30;
+            //Console.WriteLine(testInt);
 
-            bool isTrue = false;
-            Console.WriteLine(isTrue);
+            //
+            //double floatingPointNumber = 4.5;
+            //Console.WriteLine(floatingPointNumber);
 
-            char oneSymbol = 'g';
+            //float floatingPoint = 5.6f;
+            //Console.WriteLine(floatingPoint);
+
+            //decimal decimalValue = 6.8m;
+
+            //double doublePI = (double)22 / (double)7;
+            //float floatPI = (float)22 / (float)7;
+            //decimal decimalPI = (decimal)22 / (decimal)7;
+
+            //Console.WriteLine(doublePI);
+            //Console.WriteLine(floatPI);
+            //Console.WriteLine(decimalPI);
+
+            bool isTrue = true;
+            //Console.WriteLine(isTrue);
+
+            char oneSymbol = '\u1234';
             Console.WriteLine(oneSymbol);
         }
     }
