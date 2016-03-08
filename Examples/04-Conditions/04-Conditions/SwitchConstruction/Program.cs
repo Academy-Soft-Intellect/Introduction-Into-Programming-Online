@@ -60,10 +60,6 @@ namespace SwitchConstruction
                 case "z":
                     Console.WriteLine("X,Y,Z");
                     break;
-
-                default:
-                    Console.WriteLine("Default");
-                    break;
             }
         }
     }

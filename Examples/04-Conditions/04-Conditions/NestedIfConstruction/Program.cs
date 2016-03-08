@@ -26,7 +26,14 @@ namespace NestedIfConstruction
             }
             else
             {
-                Console.WriteLine("The number is odd!");
+                if (numInt > 10)
+                {
+                    Console.WriteLine("The number is odd and larger than 10!");
+                }
+                else
+                {
+                    Console.WriteLine("The number is odd and smaller than 10!");
+                }
             }
         }
     }
