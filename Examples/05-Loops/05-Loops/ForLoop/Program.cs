@@ -11,21 +11,26 @@ namespace ForLoop
     {
         private static void Main(string[] args)
         {
-            //for (int i = 2; i < 10; i++)
-            //{
-            //    Console.WriteLine(i);
-            //}
+            for (int i = 0; i < 15; i++)
+            {
+                Console.WriteLine(i);
+            }
+            Console.WriteLine("Now reverse:");
+            for (int i = 15 - 1; i >= 0; i--)
+            {
+                Console.WriteLine(i);
+            }
 
             int counter = 0;
 
-            for (int i = 1; i <= 10; i++)
-            {
-                for (int j = 1; j <= 5; j++)
-                {
-                    Console.WriteLine("I = {0}, J = {1}, counter = {2}", i, j, counter);
-                    counter++;
-                }
-            }
+            //for (int i = 1; i <= 10; i++)
+            //{
+            //    for (int j = 1; j <= 5; j++)
+            //    {
+            //        Console.WriteLine("I = {0}, J = {1}, counter = {2}", i, j, counter);
+            //        counter++;
+            //    }
+            //}
 
             //int n = 6;
 

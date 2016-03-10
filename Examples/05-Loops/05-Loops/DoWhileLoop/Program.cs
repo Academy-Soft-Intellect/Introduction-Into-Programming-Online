@@ -10,13 +10,14 @@ namespace DoWhileLoop
     {
         private static void Main(string[] args)
         {
-            int counter = -1;
+            int counter = 10;
 
             do
             {
                 Console.WriteLine("Value of the counter: " + counter);
                 counter--;
             } while (counter > 0);
+            Console.WriteLine("Loop ended");
         }
     }
 }
