@@ -10,10 +10,13 @@ namespace Array
     {
         static void Main(string[] args)
         {
-            //int[] pencho = new int[]{3, 6, 12, -7, -1, 2};
 
-            //Console.WriteLine("Print element at index 2");
-            //Console.WriteLine(pencho[2]);
+            int[] pencho = new int[] { 3, 6, 12, -7, -1, 2 };
+
+            Console.WriteLine(pencho[6]);
+
+            //Console.WriteLine("Print element at index 4");
+            //Console.WriteLine(pencho[4]);
 
             //Console.WriteLine("Change element at index 2");
             //pencho[2] = 126;
@@ -24,23 +27,18 @@ namespace Array
             //Console.Write("Array Length: ");
             //Console.WriteLine(pencho.Length);
 
-            string[] ourArray = new string[7];
-            ourArray[0] = "Levski";
-            ourArray[1] = "Roma";
-            ourArray[2] = "Real Madrid";
-
-            Console.WriteLine(ourArray[3]);
+            for (int i = 0; i < pencho.Length; i++)
+            {
+                Console.WriteLine(pencho[i]);
+            }
 
 
+            //string[] ourArray = new string[7];
+            //ourArray[0] = "Levski";
+            //ourArray[1] = "Roma";
+            //ourArray[2] = "Real Madrid";
 
-            ////Console.WriteLine(pencho[5]);
-            //for (int i = 0; i < pencho.Length; i++)
-            //{
-            //    Console.Write("|" + pencho[i] + "| ");
-            //}
-            //Console.WriteLine();
-            //Console.WriteLine(pencho.Length);
-
+            //Console.WriteLine(ourArray[4]);
         }
     }
 }

@@ -10,11 +10,11 @@ namespace ForEach
     {
         static void Main(string[] args)
         {
-            string[] gosho = new string[] { "We", "Are", "The", "Champions" };
+            string[] stringArray = new string[] { "We", "Are", "The", "Champions" };
 
-            foreach (var currentItem in gosho)
+            foreach (var item in stringArray)
             {
-                Console.WriteLine(currentItem);
+                Console.WriteLine(item);
             }
         }
     }

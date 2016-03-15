@@ -20,7 +20,6 @@ namespace Logical
             //bool b = true;
             //Console.WriteLine(!b);
 
-
             bool x = true;
             bool y = false;
 
