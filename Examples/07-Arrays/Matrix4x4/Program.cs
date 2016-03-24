@@ -12,47 +12,60 @@ namespace Matrix4x4
         {
             int[,] matrix = new int[2, 2];
 
-            for (int i = 0; i < matrix.GetLength(0); i++)
-            {
-                for (int j = 0; j < matrix.GetLength(1); j++)
-                {
-                    matrix[i, j] = int.Parse(Console.ReadLine());
-                }
-            }
+            PrintArray(matrix);
 
+            matrix = GenerateMatrix(matrix);
 
-            for (int i = 0; i < matrix.GetLength(0); i++)
-            {
-                for (int j = 0; j < matrix.GetLength(1); j++)
-                {
-                    Console.Write("   " + matrix[i, j]);
-                }
-                Console.WriteLine();
-            }
+            PrintArray(matrix);
 
             Console.WriteLine();
 
-            for (int i = 0; i < matrix.GetLength(0); i++)
+            matrix = ModifyMatrix(matrix);
+
+            PrintArray(matrix);
+        }
+
+        private static int[,] ModifyMatrix(int[,] modifiedMatrix)
+        {
+            Console.WriteLine("Modifing matrix...");
+            for (int i = 0; i < modifiedMatrix.GetLength(0); i++)
             {
-                for (int j = 0; j < matrix.GetLength(1); j++)
+                for (int j = 0; j < modifiedMatrix.GetLength(1); j++)
                 {
-                    if (matrix[i, j] % 2 == 1)
+                    if (modifiedMatrix[i, j] % 2 == 1)
                     {
-                        matrix[i, j] *= 2;
+                        modifiedMatrix[i, j] *= 2;
                     }
                 }
             }
 
+            return modifiedMatrix;
+        }
 
-            for (int i = 0; i < matrix.GetLength(0); i++)
+        private static int[,] GenerateMatrix(int[,] matrixToBeGenerated)
+        {
+            Console.WriteLine("Generating matrix...");
+            for (int i = 0; i < matrixToBeGenerated.GetLength(0); i++)
             {
-                for (int j = 0; j < matrix.GetLength(1); j++)
+                for (int j = 0; j < matrixToBeGenerated.GetLength(1); j++)
                 {
-                    Console.Write("   " + matrix[i, j]);
+                    matrixToBeGenerated[i, j] = int.Parse(Console.ReadLine());
+                }
+            }
+
+            return matrixToBeGenerated;
+        }
+
+        private static void PrintArray(int[,] arrayToPrint)
+        {
+            for (int i = 0; i < arrayToPrint.GetLength(0); i++)
+            {
+                for (int j = 0; j < arrayToPrint.GetLength(1); j++)
+                {
+                    Console.Write("   " + arrayToPrint[i, j]);
                 }
                 Console.WriteLine();
             }
-
         }
     }
 }

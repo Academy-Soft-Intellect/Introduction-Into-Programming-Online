@@ -13,11 +13,22 @@ namespace ReturnValue
             int width = 5;
             int height = 4;
 
-            int area = CalculateRectangleArea(width, height);
+            int sum = CalculateSum(width, height);
 
-            Console.WriteLine("Width " + width + "  Height " + height + " = Area " + area);
-            Console.WriteLine();
+            Console.WriteLine(sum);
 
+            //int area = CalculateRectangleArea(width, height);
+
+            //Console.WriteLine("Width " + width + "  Height " + height + " = Area " + area);
+            //Console.WriteLine();
+
+        }
+
+        private static int CalculateSum(int width, int height)
+        {
+            int calculateSum = width + height;
+
+            return calculateSum;
         }
 
         public static int CalculateRectangleArea(int width, int height)

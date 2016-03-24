@@ -12,23 +12,21 @@ namespace VariableScope
         {
             if (true)
             {
-                String test = "Test";
+                string test = "Test";
             }
             //Console.WriteLine(test);
-
         }
-        public static void print(int[] args) {
-		
-		int d = 12;
-		
-		foreach(int item in args){
-			int p = 5;
-			Console.WriteLine(item);
-		}
-        //Console.WriteLine(p);
+        public static void print(int[] args)
+        {
+            int d = 12;
 
-        Console.WriteLine(d);
-		
-	}
+            foreach (int item in args)
+            {
+                int p = 5;
+                Console.WriteLine(item);
+            }
+            //Console.WriteLine(p);
+            Console.WriteLine(d);
+        }
     }
 }
