@@ -12,9 +12,16 @@ namespace Task03
         {
             int maxNumber = int.MinValue;
             int minNumber = int.MaxValue;
+            int[] array = new int[10];
+
             for (int i = 0; i < 10; i++)
             {
-                int currentNumber = int.Parse(Console.ReadLine());
+                array[i] = int.Parse(Console.ReadLine());
+            }
+
+            for (int i = 0; i < 10; i++)
+            {
+                int currentNumber = array[i];
                 if (i % 2 == 0)
                 {
                     if (currentNumber > maxNumber)

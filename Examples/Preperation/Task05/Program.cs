@@ -43,6 +43,15 @@ namespace Task05
                 }
             }
 
+            for (int i = 0; i < height; i++)
+            {
+                for (int j = 0; j < width; j++)
+                {
+                    Console.Write(" " + matrix[i,j]);
+                }
+                Console.WriteLine();
+            }
+
             Console.WriteLine("Max number is {0} and is located on [{1}:{2}]", maxNumber, maxHeight, maxWidth);
             Console.WriteLine("Min number is {0} and is located on [{1}:{2}]", minNumber, minHeight, minWidth);
         }
